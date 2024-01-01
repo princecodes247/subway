@@ -1,0 +1,6 @@
+{
+  "watch": ["packages/router/src"],
+  "ext": ".ts,.js",
+  "ignore": [],
+  "exec": "npx ts-node examples/basic-setup/src/app.ts"
+}
